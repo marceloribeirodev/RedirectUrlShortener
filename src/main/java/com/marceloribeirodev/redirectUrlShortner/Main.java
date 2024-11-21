@@ -27,7 +27,7 @@ public class Main implements RequestHandler<Map<String, Object>, Map<String, Obj
 
         // Criar uma request do tipo GET para o S3
         GetObjectRequest getObjectRequest = GetObjectRequest.builder()
-                .bucket("url-shortener-storage-lambda-marceloribeirodev")
+                    .bucket("url-shortener-storage-lambda-marceloribeirodev")
                 .key(shortUrlCode + ".json")
                 .build();
 
