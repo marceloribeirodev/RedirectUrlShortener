@@ -1,4 +1,4 @@
-package com.marceloribeirodev.createUrlShortner;
+package com.marceloribeirodev.redirectUrlShortner;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
