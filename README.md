@@ -1,2 +1,2 @@
 # RedirectUrlShortener
-Projeto em Java - Redirecionador de URL usando AWS (Lambda e S3)
+Projeto em Java - Redirecionador de URL usando AWS (Lambda, S3 e API Gateway)
